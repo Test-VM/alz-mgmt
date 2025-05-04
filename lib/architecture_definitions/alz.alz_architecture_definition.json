@@ -22,15 +22,6 @@
       },
       {
         "archetypes": [
-          "Corp"
-        ],
-        "display_name": "Corp",
-        "exists": false,
-        "id": "corp",
-        "parent_id": "WM-root"
-      },
-      {
-        "archetypes": [
           "Online"
         ],
         "display_name": "Online",
