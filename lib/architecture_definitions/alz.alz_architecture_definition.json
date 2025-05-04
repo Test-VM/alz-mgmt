@@ -22,7 +22,7 @@
       },
       {
         "archetypes": [
-          "Corp"
+          "corp"
         ],
         "display_name": "Corp",
         "exists": false,
