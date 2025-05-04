@@ -22,33 +22,6 @@
       },
       {
         "archetypes": [
-          "Corp"
-        ],
-        "display_name": "Corp",
-        "exists": false,
-        "id": "corp",
-        "parent_id": "WM-root"
-      },
-      {
-        "archetypes": [
-          "Online"
-        ],
-        "display_name": "Online",
-        "exists": false,
-        "id": "online",
-        "parent_id": "WM-root"
-      },
-      {
-        "archetypes": [
-          "Corp"
-        ],
-        "display_name": "Modern Data Platform",
-        "exists": false,
-        "id": "MDP",
-        "parent_id": "corp"
-      },
-      {
-        "archetypes": [
           "sandbox"
         ],
         "display_name": "Sandbox",
