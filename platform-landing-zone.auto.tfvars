@@ -67,7 +67,7 @@ custom_replacements = {
     primary_hub_virtual_network_address_space          = "172.16.0.0/22"
     primary_firewall_subnet_address_prefix             = "172.16.0.0/26"
     primary_bastion_subnet_address_prefix              = "172.16.0.64/26"
-    primary_gateway_subnet_address_prefix              = "172.16.128/27"
+    primary_gateway_subnet_address_prefix              = "172.16.0.128/27"
     primary_private_dns_resolver_subnet_address_prefix = "172.16.0.160/28"
   }
 
